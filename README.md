@@ -8,8 +8,8 @@ These files hold only screen layout and behaviour code; no personal data is stor
 
 | Screen | Fixed file |
 | --- | --- |
-| Messages list | `b/97e2aca0602e8545.js` |
-| Message Outline form | `b/3e214fcb1870736e.js` |
-| New Message form | `b/7d18b4c0e3f565fb.js` |
+| Messages list | `b/3010732e6fc5d4c1.js` |
+| Message Outline form | `b/ab13631947a37f35.js` |
+| New Message form | `b/b0ce81a6dec2836d.js` |
 
 Older files in `b/` stay published so screens drawn earlier keep working.
