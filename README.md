@@ -4,11 +4,11 @@ Fixed look-and-code files for a personal workflow's chat screens, generated from
 Each file in `b/` is named by a hash of its contents and never changes once published.
 These files hold only screen layout and behaviour code; no personal data is stored here.
 
-## Current files (2026-10-27, 17:45 Central)
+## Current files (2026-10-27, 17:50 Central)
 
 | Screen | Fixed file |
 | --- | --- |
-| Messages list | `b/775aab7a5d4a5293.js` |
+| Messages list | `b/3bc4e4b6151adf4f.js` |
 | Message Outline form | `b/505169263d74d36b.js` |
 | New Message form | `b/662a24ad2dea024a.js` |
 
