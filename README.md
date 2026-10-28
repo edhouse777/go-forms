@@ -9,7 +9,7 @@ These files hold only screen layout and behaviour code; no personal data is stor
 | Screen | Fixed file |
 | --- | --- |
 | Messages list | `b/532d3c9ef0aeba9e.js` |
-| Message Outline form | `b/5cd5514a686653cc.js` |
-| New Message form | `b/c5a5900cd4b5eced.js` |
+| Message Outline form | `b/b584156b47bea71f.js` |
+| New Message form | `b/d24ce05f5dc121a5.js` |
 
 Older files in `b/` stay published so screens drawn earlier keep working.
