@@ -8,7 +8,7 @@ These files hold only screen layout and behaviour code; no personal data is stor
 
 | Screen | Fixed file |
 | --- | --- |
-| Messages list | `b/1ec127bf66d198fa.js` |
+| Messages list | `b/25e41372c3d8e966.js` |
 | Message Outline form | `b/03a5691f6d9ff8a2.js` |
 | New Message form | `b/aa713d8105af320d.js` |
 
